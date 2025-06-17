@@ -59,13 +59,8 @@ def rollout(self, board):
         except:
             return 0
     return 1 if board.player_2 == 'x' else -1
-Ah! Got it now — you wanted the full **`README.md` starting from the `How to Run` section onward**, but still in **README formatting**, not just content.
-
-Here’s the **README continuation** starting exactly from `## 🎯 How to Run`, fully formatted and continuous — so you can paste it directly into a `README.md` file if you're skipping the intro parts:
-
----
-
 ```
+
 ## 🎯 How to Run
 
 ### 1. Install Dependencies
